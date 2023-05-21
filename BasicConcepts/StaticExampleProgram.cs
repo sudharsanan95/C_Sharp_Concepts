@@ -14,6 +14,10 @@ namespace Sudharshanan.BasicConcepts
         {
             Console.WriteLine("hwdbhjwdk");
         }
+        public void Main2()
+        {
+            Console.WriteLine("hwdbhjwdk");
+        }
         public static void Main(string[] args)
         {
             StaticVariableExample ex = new StaticVariableExample();
