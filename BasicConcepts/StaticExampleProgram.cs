@@ -7,7 +7,13 @@ using System.Threading.Tasks;
 namespace Sudharshanan.BasicConcepts
 {
     public class StaticExampleProgram
+
+    
     {
+        public void Main1()
+        {
+            Console.WriteLine("hwdbhjwdk");
+        }
         public static void Main(string[] args)
         {
             StaticVariableExample ex = new StaticVariableExample();
